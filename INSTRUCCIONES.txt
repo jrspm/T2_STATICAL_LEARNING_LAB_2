@@ -1,0 +1,11 @@
+Para este laboratorio estaremos trabajando con Pyton y la aplicacion de modelos vistos en clase, 
+para ello debe descargar el dataset que se encuentra en el GES y responder las siguientes preguntas: 
+
+1. ¿Qué rango de hora es la de mayor demanda?
+2. ¿Qué temporada es la mas alta?
+3. ¿Es la temperatura relevante para el modelo?
+4. ¿Es la humedad relevante para el modelo?
+5. ¿Qué condiciones serian ideales para nuestra demanda?
+
+Para finalizar, debe de utilizar los conocimientos adquiridos en clase para presentar un modelo que 
+permita estimar la demanda de bicicletas para eventos futuros, recuerde no sobreajustar el modelo. 
